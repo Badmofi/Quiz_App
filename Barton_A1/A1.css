@@ -1,0 +1,25 @@
+body{
+    background-color: #73d375;
+}
+.question{
+    background-color: #d3ffa9;
+    border: solid thin black;
+    margin-bottom: 10px;
+    margin-right: 10%;
+}
+button{
+    background-color: #2aff72;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.incorrect{
+    background-color: #ffa9aa;
+}
+.correct{
+    background-color: #2bd45d;
+}
+#error{
+    color: darkred;
+}
+
